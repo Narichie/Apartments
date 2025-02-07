@@ -54,7 +54,7 @@ The evaluation of model performance reveals that Random Forest (Model 2) stands 
 Although some models might exhibit slightly better false positive or true negative rates, Random Forest provides the best overall balance for accurately predicting pet-friendly apartments. 
 
 # Follow me
-www.linkedin.com/in/richard-asiamah-007b20242
+www.linkedin.com/in/narichie
 
 
 
